@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "1c1dff4dd183158f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebc47571903a5f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5d12c86706daf59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Alexandra Zaychik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b2a9d9a0e761277",
+    "type": "split",
+    "children": [
+      {
+        "id": "72ea2595c0587dd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7e4999453db05a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f9836ae8d4ca44d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eefb8d0efcafea47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "0b4a15643d15ff2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ec58cb11018597b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff5b97d9c22653c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Alexandra Zaychik.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dd82b5b670b4ad9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Alexandra Zaychik.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "713114974896fa8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c82121731cad9b1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Alexandra Zaychik.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b5d12c86706daf59",
+  "lastOpenFiles": [
+    "Characters/Ai-chan.md",
+    "Characters/Alexandra Zaychik.md",
+    "Characters/Ai Hyperion Λ.md",
+    "Characters/Agata.md",
+    "Characters/A-Post-Honkai-Odyssey Protagonist.md",
+    "Characters/8th Herrscher (Previous Era).md",
+    "Characters/6th Herrscher (Previous Era).md",
+    "Characters/11th Herrscher (Previous Era).md",
+    "Characters"
+  ]
+}
